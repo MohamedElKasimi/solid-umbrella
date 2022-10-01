@@ -1,0 +1,22 @@
+.wow {
+    width: 100px;
+  }
+  
+  div{
+    border: 3px solid black;
+  }
+  
+  table{
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+  
+  td{
+    padding: 5px;
+    border: 1px solid black;
+  }
+  
+  th{
+    border: 1px solid black;
+    padding: 5px;
+  }
